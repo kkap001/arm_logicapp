@@ -11,6 +11,7 @@
   "parameters": {
     "logicAppName": {
       "type": "string",
+      "defaultValue": "Logic US",
       "metadata": {
         "description": "The name of the logic app to create."
       }
